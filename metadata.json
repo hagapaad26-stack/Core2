@@ -1,0 +1,6 @@
+{
+  "name": "Opticore Hero",
+  "description": "A highly polished tech hero section replicating the Opticore design with precision, responsive layout, fluid typography, and premium micro-interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
